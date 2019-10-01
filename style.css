@@ -1,0 +1,11 @@
+td {
+    text-align: center;
+    background-color: white;
+     
+ }
+ 
+ input {
+   border-width: 2;
+   border-style:solid;
+   padding: 30px;
+  }
